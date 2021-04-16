@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: powderblue;
+    color: black;
+    padding: 1rem;
+}
+
+p {
+    background-color: #fbe0c4;
+    color: black;
+    padding: 1rem;
+}

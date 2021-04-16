@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+.clr {
+    clear: both;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.box {
+    background: rgb(179, 255, 242);
+    border: 1px solid #333;
+    padding: 28px;
+    margin-bottom: 28px;
+}
+
+.box p {
+    text-align: center;
+    text-align: justify;
+}
+
+#box-2 {
+    float: left;
+    width: 68%;
+}
+
+#box-3 {
+    float: right;
+    width: 30%;
+}

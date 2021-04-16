@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin: 10px;
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin: 10px;
+}
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin: 10px;
+}
